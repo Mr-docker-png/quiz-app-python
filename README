@@ -1,0 +1,42 @@
+        # Quiz Application using Python
+
+## Project Overview
+This is a command-line Quiz Application built using Python.
+
+The program:
+- asks questions
+- accepts user answers
+- checks correctness
+- calculates final score
+
+---
+
+## Features
+- Multiple Questions
+- User Input
+- Score Calculation
+- Answer Validation
+- CLI Interface
+
+---
+
+## Technologies Used
+- Python
+
+---
+
+## Concepts Learned
+- Lists
+- Dictionaries
+- Loops
+- Conditions
+- User Input Handling
+
+---
+
+## Future Improvements
+- Timer
+- Difficulty Levels
+- Random Questions
+- GUI Version
+- Database Storage
